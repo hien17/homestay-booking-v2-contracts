@@ -35,11 +35,13 @@ A robust template for developing and deploying Smart Contracts on EVM-compatible
 
 ## Project Structure
 
+```bash
 ├── contracts/          # Smart contracts directory
 ├── scripts/           # Deployment and interaction scripts
 ├── test/             # Test files
 ├── hardhat.config.ts # Hardhat configuration
 └── .env              # Environment variables (create this)
+```
 
 ## Configuration
 
